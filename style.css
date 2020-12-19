@@ -1,0 +1,45 @@
+.container {
+    margin-top: 15px;
+}
+
+.project-info {
+    text-align: center;
+}
+
+.project-info-description {
+    margin: 50px 0px;
+    font-size: 1.3em;
+}
+
+.project-part-info {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.project-part-info-description {
+    margin: 20px 0px;
+    font-size: 1.1em;
+}
+
+.releases {
+    margin-top: 20px;
+}
+
+.release {
+    border: 1px solid #343a40;
+    border-radius: 0.25rem;
+    margin: 3px 0px;
+    padding: 10px;
+}
+
+.release-title {
+    font-size: 1.5em;
+}
+
+.release-desc {
+    margin-top: 5px;
+}
+
+.release-down {
+    margin-top: 10px;
+}
