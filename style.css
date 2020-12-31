@@ -28,12 +28,12 @@
 .release {
     border: 1px solid #343a40;
     border-radius: 0.25rem;
-    margin: 3px 0px;
+    margin: 5px 0px;
     padding: 10px;
 }
 
 .release-title {
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 
 .release-desc {
@@ -42,4 +42,8 @@
 
 .release-down {
     margin-top: 10px;
+}
+
+.btn {
+    margin-bottom: 5px;
 }
