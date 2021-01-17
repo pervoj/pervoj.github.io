@@ -2,6 +2,10 @@
     margin-top: 15px;
 }
 
+h1 {
+    text-align: center;
+}
+
 .project-info {
     text-align: center;
 }
@@ -46,4 +50,12 @@
 
 .btn {
     margin-bottom: 5px;
+}
+
+th {
+    padding-right: 5px;
+}
+
+.list-table th {
+    text-align: right;
 }
