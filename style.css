@@ -1,3 +1,7 @@
+.navbar {
+    background: linear-gradient(120deg, #393e46, #212529) !important;
+}
+
 .container {
     margin-top: 15px;
 }
